@@ -1,6 +1,17 @@
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCorporationOverFlow&count_bg=%23FF8D1D&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=Hits&edge_flat=false"/></a>
 </div>
+사진
+사진
+
+# 📑 INDEX
+- [CoverFlow를 소개해요](https://github.com/CorporationOverFlow#-coverflow를-소개해요)
+
+- [우리는 이렇게 일하고 있어요](https://github.com/CorporationOverFlow#-우리는-이렇게-일하고-있어요)
+
+- [전략적으로 형상을 관리해요](https://github.com/CorporationOverFlow#-전략적으로-형상을-관리해요)
+
+<br>
 
 # 🚀 CoverFlow를 소개해요
 ## 💡 CoverFlow
@@ -44,7 +55,7 @@ Corporation + OverFlow
         
 <br>
         
-# 🚀 이렇게 일하고 있어요
+# 🚀 우리는 이렇게 일하고 있어요
 ### ✅ 데일리 미팅으로 하루를 시작해요
 - 평일 9시 (최대 30분)
 - 간단한 진행 상황 및 작업 이슈 브리핑
