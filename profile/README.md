@@ -70,7 +70,7 @@
 <br>
 
 # 🚀 약속은 꼭 지켜요
-## 🌭 Branch Strategy
+## 🔥 Branch Strategy
 ### ✏ Git Repository
 사진
 
@@ -88,7 +88,7 @@ type/#이슈번호 + (선택)설명       ex) feature/#22-delete-image
   - feature: 기능 개발 브랜치
   - hotfix: 버그 수정 브랜치
 
-## 🍕 Commit Message Convention
+## 🔥 Commit Message Convention
 ### ✏ 메시지 형식
 ```
 type: subject                    ex) feat: 이미지 삭제 구현
@@ -116,7 +116,7 @@ type: subject                    ex) feat: 이미지 삭제 구현
   - 본문의 양에 구애받지 않고 최대한 상세히 작성한다.
   - “어떻게”보다는 “무엇을" “왜” 변경했는지 설명한다.
 
-## 🍔 Issue & PR Guide
+## 🔥 Issue & PR Guide
 ```
 - 개발 전 Issue 발행 우선
 - Issue는 태스크 단위로 발행하기
