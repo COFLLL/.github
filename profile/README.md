@@ -1,12 +1,27 @@
-## Hi there 👋
+# 💡 CoverFlow
+    Corporation + OverFlow
+    기업에 대한 질문과 답변이 넘쳐흐르는 서비스를 뜻합니다
+사진
 
-<!--
+## 💻 기술 소개
+### 프론트엔드
+사진
 
-**Here are some ideas to get you started:**
+### 백엔드
+사진
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎁 팀원 소개
+<table>
+  <tr>
+    <td align="center"><strong>프론트엔드</strong></td>
+    <td align="center"><strong>백엔드</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz(라현지)</b></td>
+    <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft(조만제)</b></td>
+  </tr>
+</table>
