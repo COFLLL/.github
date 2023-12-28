@@ -80,7 +80,7 @@
 
 ### ✏ Branch Naming
 ```
-type/#이슈번호 + (선택)설명       ex)feature/#22-delete-image
+type/#이슈번호 + (선택)설명       ex) feature/#22-delete-image
 ```
 - type
   - main: 실제 운영 브랜치
@@ -91,9 +91,9 @@ type/#이슈번호 + (선택)설명       ex)feature/#22-delete-image
 ## 🍕 Commit Message Convention
 ### ✏ 메시지 형식
 ```
-type: subject                    ex)feat: 이미지 삭제 구현
-(선택)body                          - 특정 이미지를 삭제하기 위해 구현했습니다.
-                                    - 전체 이미지를 삭제하기 위해 구현했습니다.
+type: subject                    ex) feat: 이미지 삭제 구현
+(선택)body                           - 특정 이미지를 삭제하기 위해 구현했습니다.
+                                     - 전체 이미지를 삭제하기 위해 구현했습니다.
 ```
 - type
   - feat: 기능 추가
@@ -121,7 +121,7 @@ type: subject                    ex)feat: 이미지 삭제 구현
 - 개발 전 Issue 발행 우선
 - Issue는 태스크 단위로 발행하기
 - Git Convention을 반드시 지키기
-- 각자 Branch에서 개발 후 develop Branch로 PR하기 (develop, main으로 push 금지)
+- 각자의 Branch에서 개발 후 develop Branch로 PR하기 (develop, main으로 push 금지)
 - PR에 댓글 적극적으로 남기기
 - 최소 한 명 이상의 PR승인이 이루어져야 Merge 가능
 ```
