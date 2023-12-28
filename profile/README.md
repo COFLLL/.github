@@ -5,12 +5,18 @@
 # 🚀 CoverFlow를 소개해요
 ## 💡 CoverFlow
 ```
-    Corporation + OverFlow
-    기업에 대한 질문과 답변이 넘쳐흐르는 서비스를 뜻합니다
+Corporation + OverFlow
+=> CoverFlow
+기업에 대한 질문과 답변이 넘쳐흐르는 서비스를 뜻합니다
 ```
 사진
 
-## 💻 기술 소개
+## 🎁 코드 소개
+🌌 [프론트엔드 저장소](https://github.com/CorporationOverFlow/CoverFlow-FE) <br>
+
+🌌 [백엔드 저장소](https://github.com/CorporationOverFlow/CoverFlow-BE)
+
+## 🎁 기술 소개
 ### 🎉 프론트엔드
 사진
 
