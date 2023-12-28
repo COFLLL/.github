@@ -75,7 +75,7 @@ Corporation + OverFlow
 
 <br>
 
-# 🚀 약속은 꼭 지켜요
+# 🚀 전략적으로 형상을 관리해요
 ## 🔥 Branch Strategy
 ### ✏ Git Repository
 사진
