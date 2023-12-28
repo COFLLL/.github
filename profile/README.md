@@ -113,26 +113,27 @@ type: subject                    ex) feat: 이미지 삭제 구현
 
 [subject]
 - 제목은 50글자를 넘지 않도록 한다.
-- 개조식 구문 사용
-  - 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현
+- 개조식 구문 사용 -> 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현한다.
 - 마지막에 특수문자를 넣지 않는다. (마침표, 느낌표, 물음표 등)
 
 [body](선택)
-- 각 라인별로 balled list로 표시한다.
-  - 예시) - 어쩌구~
+- 각 라인별로 balled list로 표시한다. ex) - 어쩌구~
 - 본문의 양에 구애받지 않고 최대한 상세히 작성한다.
 - “어떻게”보다는 “무엇을" “왜” 변경했는지 설명한다.
 ```
 
 ## 🔥 Issue & PR Guide
-```
-- 개발 전 Issue 발행 우선
-- Issue는 태스크 단위로 발행하기
-- Git Convention을 반드시 지키기
-- 각자의 Branch에서 개발 후 develop Branch로 PR하기 (develop, main으로 push 금지)
-- PR에 댓글 적극적으로 남기기
-- 최소 한 명 이상의 PR승인이 이루어져야 Merge 가능
-```
+- 개발 시작 전, 우선 Issue를 발행합니다.
+
+- Issue는 태스크 단위로 발행합니다.
+
+- Git Convention을 반드시 지킵니다.
+
+- 각자의 Branch에서 개발 후 develop Branch로 PR 합니다. (develop, main으로 push 금지)
+
+- PR에 댓글 적극적으로 남깁니다.
+
+- 최소 한 명 이상의 PR 승인이 이루어져야 Merge가 가능합니다.
 
 ### ✏ Issue 형식
 #### Feature
