@@ -7,13 +7,13 @@
 사진
 
 ## 💻 기술 소개
-### 프론트엔드
+### 🎉 프론트엔드
 사진
 
-### 백엔드
+### 🎉 백엔드
 사진
 
-### Project Architecture
+### 🎉 Project Architecture
 사진
 
 ## 🎁 팀원 소개
@@ -67,14 +67,14 @@
 
 # 🚀 약속은 꼭 지켜요
 ## 🌭 Branch Strategy
-### Git Repository
+### ✏ Git Repository
 사진
 
-### Organization
+### ✏ Organization
 - Git Repository를 팀원들과 사용하기 위해 GitHub에서 제공하는 협업 서비스이다
 - 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용한다
 
-### Branch Naming
+### ✏ Branch Naming
 ```
 type/#이슈번호 + (선택)설명       ex)feature/#22-delete-image
 ```
@@ -85,7 +85,7 @@ type/#이슈번호 + (선택)설명       ex)feature/#22-delete-image
   - hotfix: 버그 수정 브랜치
 
 ## 🍕 Commit Message Convention
-### 메시지 형식
+### ✏ 메시지 형식
 ```
 type: subject                    ex)feat: 이미지 삭제 구현
 (선택)body                          - 특정 이미지를 삭제하기 위해 구현했습니다.
@@ -122,7 +122,7 @@ type: subject                    ex)feat: 이미지 삭제 구현
 - 최소 한 명 이상의 PR승인이 이루어져야 Merge 가능
 ```
 
-### Issue 형식
+### ✏ Issue 형식
 #### Feature
 ```
 ---
@@ -168,7 +168,7 @@ assignees: ''
 
 ### 🐾ETC
 ```
-### Pull Request 형식
+### ✏ Pull Request 형식
 #### 제목
 ```
 [type] - [도메인] 제목
