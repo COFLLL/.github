@@ -6,7 +6,7 @@
 ## 💡 CoverFlow
 ```
 Corporation + OverFlow
-=> CoverFlow
+
 기업에 대한 질문과 답변이 넘쳐흐르는 서비스를 뜻합니다
 ```
 사진
