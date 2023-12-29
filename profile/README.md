@@ -118,9 +118,9 @@ type: subject                    ex) feat: 이미지 삭제 구현
 
 - Git Convention을 반드시 지킵니다.
 
-- 각자의 Branch에서 개발 후 develop Branch로 PR 합니다. (develop, main으로 push 금지)
+- 각자의 branch에서 개발 후 develop branch로 PR 합니다. (develop, main으로 push 금지)
 
-- PR에 댓글 적극적으로 남깁니다.
+- PR에 댓글을 적극적으로 남깁니다.
 
 - 최소 한 명 이상의 PR 승인이 이루어져야 Merge가 가능합니다.
 
