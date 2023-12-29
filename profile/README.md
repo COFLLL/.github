@@ -56,7 +56,8 @@ Corporation + OverFlow
 <br>
         
 # 🚀 우리는 이렇게 일하고 있어요
-![팀 문화](https://github.com/CorporationOverFlow/.github/assets/119282494/03e33562-0284-4646-b962-4510b45de623)
+![팀 문화](https://github.com/CorporationOverFlow/.github/assets/119282494/236b6260-f799-463a-830c-b8ea5301e68c)
+
 
 
 
