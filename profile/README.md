@@ -18,7 +18,8 @@
 <br>
 
 ## 🎁 코드 소개
-🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) <br>
+🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) 
+
 🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
 
 <br>
