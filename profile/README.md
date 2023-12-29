@@ -67,11 +67,13 @@ Corporation + OverFlow
 # 🚀 전략적으로 형상을 관리해요
 ## 🔥 Branch Strategy
 ### ✏ Git Repository
-사진
+![image](https://github.com/CorporationOverFlow/.github/assets/98208452/232e8131-20ca-4110-80fc-0d7641cc4d77)
+
 
 ### ✏ Organization
-- Git Repository를 팀원들과 사용하기 위해 GitHub에서 제공하는 협업 서비스이다
-- 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용한다
+- Git Repository 관리와 프론트엔드/백엔드 레포지토리 분리를 위해 Organization을 사용한다.
+
+- Organization에 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용한다.
 
 ### ✏ Branch Naming
 ```
