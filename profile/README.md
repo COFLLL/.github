@@ -65,57 +65,10 @@ Corporation + OverFlow
 
 # 🚀 전략적으로 형상을 관리해요
 ## 🔥 Branch Strategy
-### ✏ Git Repository
-![image](https://github.com/COFLLL/.github/assets/98208452/5cb94b5b-db42-4ad9-8219-33bd25235390)
-```
-우리는
+![Git Repository](https://github.com/COFLLL/.github/assets/119282494/af10debf-3957-4641-85af-88f78a2a2e64)
 
-Local Repository <-> Fork Remote Repository(Origin) <-> 원본 Repository(Upstream)
+![organizaion](https://github.com/COFLLL/.github/assets/119282494/5f01f745-eb41-471c-9687-d52516f19fd0)
 
-구조로 Git Repository를 관리합니다.
-```
-### ✏ Organization
-- Git Repository 관리와 프론트엔드/백엔드 레포지토리 분리를 위해 Organization을 사용합니다.
-
-- Organization에 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용합니다.
-
-### ✏ Branch Naming
-```
-type/#이슈번호 + (선택)설명       ex) feature/#22-delete-image
-
-[type]
-- main: 실제 운영 브랜치
-- develop: 다음 버전 개발 브랜치
-- feature: 기능 개발 브랜치
-- hotfix: 버그 수정 브랜치
-```
-
-## 🔥 Commit Message Convention
-### ✏ 메시지 형식
-```
-type: subject                    ex) feat: 이미지 삭제 구현
-(선택)body                           - 특정 이미지를 삭제하기 위해 구현했습니다.
-                                     - 전체 이미지를 삭제하기 위해 구현했습니다.
-
-[type]
-- feat: 기능 추가
-- fix: 기능 변경 o 코드 수정 o
-- refactor: 기능 변경 x 코드 수정 o (버그 픽스나 기능 추가 없는 코드 변화)
-- style: 코드의 의미가 변경 안 되는 경우 (띄어쓰기, 포맷팅, 줄 바꿈 등)
-- chore: 기능 변경 x 코드 수정 x
-- test: 테스트 코드 추가/수정
-- design: CSS 등 사용자 UI 디자인 변경 [FE]
-
-[subject]
-- 제목은 50글자를 넘지 않도록 합니다.
-- 개조식 구문 사용 -> 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현합니다.
-- 마지막에 특수문자를 넣지 않습니다. (마침표, 느낌표, 물음표 등)
-
-[body](선택)
-- 각 라인별로 balled list로 표시합니다. ex) - 어쩌구~
-- 본문의 양에 구애받지 않고 최대한 상세히 작성합니다.
-- “어떻게”보다는 “무엇을" “왜” 변경했는지 설명합니다.
-```
 
 ## 🔥 Issue & PR Guide
 - 개발 시작 전, 우선 Issue를 발행합니다.
