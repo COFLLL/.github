@@ -48,5 +48,5 @@
 <br>
 
 # 🚀 전략적으로 형상을 관리해요
-![깃 전략](https://github.com/COFLLL/.github/assets/98208452/51693589-0bc3-4ff7-8911-94e9ea1a685c)
+![전략](https://github.com/COFLLL/.github/assets/119282494/cdda3c23-75aa-455a-9902-57d4254d6945)
 
