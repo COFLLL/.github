@@ -5,8 +5,6 @@
 사진
 
 # 📑 INDEX
-- [CoverFlow를 소개해요](https://github.com/COFLLL#-coverflow를-소개해요)
-
 - [우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
 
 - [전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
