@@ -49,8 +49,8 @@
 # 🚀 전략적으로 형상을 관리해요
 ## 🔥 Git Flow
 ![Git Repository](https://github.com/COFLLL/.github/assets/119282494/af10debf-3957-4641-85af-88f78a2a2e64)
+![organizaion](https://github.com/COFLLL/.github/assets/119282494/00d0e726-79f2-439e-ab43-1c8bb0adde03)
 
-![organizaion](https://github.com/COFLLL/.github/assets/119282494/5f01f745-eb41-471c-9687-d52516f19fd0)
 
 
 ## 🔥 Issue & PR Guide
