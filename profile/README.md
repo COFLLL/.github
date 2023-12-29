@@ -17,6 +17,11 @@
 
 <br>
 
+## 🎁 블로그 소개
+[CoverFlow Blog](https://velog.io/@cofl/posts)
+
+<br>
+
 ## 🎁 코드 소개
 🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) 
 
