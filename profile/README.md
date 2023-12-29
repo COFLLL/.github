@@ -28,11 +28,11 @@ Corporation + OverFlow
 🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
 
 ## 🎁 기술 소개
-### 🎉 프론트엔드
-사진
+![기술 스택](https://github.com/COFLLL/.github/assets/119282494/bfab4e47-3ebb-4b2c-ae1d-c3de98c50d8d)
 
-### 🎉 백엔드
-사진
+
+
+
 
 ### 🎉 Project Architecture
 사진
@@ -56,8 +56,7 @@ Corporation + OverFlow
 <br>
         
 # 🚀 우리는 이렇게 일하고 있어요
-![팀 문화](https://github.com/COFLLL/.github/assets/119282494/236b6260-f799-463a-830c-b8ea5301e68c)
-
+![팀 문화](https://github.com/COFLLL/.github/assets/119282494/38100e37-1878-49f3-a0d9-7af64e36a53a)
 
 
 
