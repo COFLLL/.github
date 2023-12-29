@@ -5,9 +5,9 @@
 사진
 
 # 📑 INDEX
-> [🚀 우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
+> 🚀 [우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
 
-> [🚀 전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
+> 🚀 [전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 
 ## 🎁 블로그 소개
-[CoverFlow Blog](https://velog.io/@cofl/posts)
+🛰 [CoverFlow](https://velog.io/@cofl/posts)
 
 <br>
 
