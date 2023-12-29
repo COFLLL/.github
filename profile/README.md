@@ -13,15 +13,6 @@
 
 <br>
 
-# 🚀 CoverFlow를 소개해요
-## 💡 CoverFlow
-```
-Corporation + OverFlow
-
-기업에 대한 질문과 답변이 넘쳐흐르는 서비스를 뜻합니다
-```
-사진
-
 ## 🎁 코드 소개
 🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) <br>
 
@@ -29,9 +20,6 @@ Corporation + OverFlow
 
 ## 🎁 기술 소개
 ![기술 스택](https://github.com/COFLLL/.github/assets/119282494/bfab4e47-3ebb-4b2c-ae1d-c3de98c50d8d)
-
-
-
 
 
 ### 🎉 Project Architecture
