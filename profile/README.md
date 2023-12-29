@@ -19,10 +19,6 @@
 ## 🎁 기술 소개
 ![기술 스택](https://github.com/COFLLL/.github/assets/119282494/bfab4e47-3ebb-4b2c-ae1d-c3de98c50d8d)
 
-
-### 🎉 Project Architecture
-사진
-
 ## 🎁 팀원 소개
 <table>
   <tr>
@@ -43,9 +39,6 @@
         
 # 🚀 우리는 이렇게 일하고 있어요
 ![팀 문화](https://github.com/COFLLL/.github/assets/119282494/38100e37-1878-49f3-a0d9-7af64e36a53a)
-
-
-
 
 <br>
 
