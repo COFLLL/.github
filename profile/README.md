@@ -67,13 +67,18 @@ Corporation + OverFlow
 # 🚀 전략적으로 형상을 관리해요
 ## 🔥 Branch Strategy
 ### ✏ Git Repository
-![image](https://github.com/CorporationOverFlow/.github/assets/98208452/232e8131-20ca-4110-80fc-0d7641cc4d77)
+![image](https://github.com/CorporationOverFlow/.github/assets/98208452/5cb94b5b-db42-4ad9-8219-33bd25235390)
+```
+우리는
 
+Local Repository <-> Fork Remote Repository(Origin) <-> 원본 Repository(Upstream)
 
+구조로 Git Repository를 관리합니다.
+```
 ### ✏ Organization
-- Git Repository 관리와 프론트엔드/백엔드 레포지토리 분리를 위해 Organization을 사용한다.
+- Git Repository 관리와 프론트엔드/백엔드 레포지토리 분리를 위해 Organization을 사용합니다.
 
-- Organization에 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용한다.
+- Organization에 소속된 Repository를 Upstream Remote Repository(최신 소스코드 저장소)로 사용합니다.
 
 ### ✏ Branch Naming
 ```
@@ -103,14 +108,14 @@ type: subject                    ex) feat: 이미지 삭제 구현
 - design: CSS 등 사용자 UI 디자인 변경 [FE]
 
 [subject]
-- 제목은 50글자를 넘지 않도록 한다.
-- 개조식 구문 사용 -> 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현한다.
-- 마지막에 특수문자를 넣지 않는다. (마침표, 느낌표, 물음표 등)
+- 제목은 50글자를 넘지 않도록 합니다.
+- 개조식 구문 사용 -> 중요하고 핵심적인 요소만 간추려서 (항목별로 나열하듯이) 표현합니다.
+- 마지막에 특수문자를 넣지 않습니다. (마침표, 느낌표, 물음표 등)
 
 [body](선택)
-- 각 라인별로 balled list로 표시한다. ex) - 어쩌구~
-- 본문의 양에 구애받지 않고 최대한 상세히 작성한다.
-- “어떻게”보다는 “무엇을" “왜” 변경했는지 설명한다.
+- 각 라인별로 balled list로 표시합니다. ex) - 어쩌구~
+- 본문의 양에 구애받지 않고 최대한 상세히 작성합니다.
+- “어떻게”보다는 “무엇을" “왜” 변경했는지 설명합니다.
 ```
 
 ## 🔥 Issue & PR Guide
