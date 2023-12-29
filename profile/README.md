@@ -5,20 +5,19 @@
 사진
 
 # 📑 INDEX
-
 > [🚀 우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
 
 > [🚀 전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
 
 <br>
 
+## 🎁 기술 소개
+![기술 스택](https://github.com/COFLLL/.github/assets/119282494/bfab4e47-3ebb-4b2c-ae1d-c3de98c50d8d)
+
 ## 🎁 코드 소개
 🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) <br>
 
 🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
-
-## 🎁 기술 소개
-![기술 스택](https://github.com/COFLLL/.github/assets/119282494/bfab4e47-3ebb-4b2c-ae1d-c3de98c50d8d)
 
 ## 🎁 팀원 소개
 <table>
