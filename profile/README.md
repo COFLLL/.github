@@ -7,6 +7,8 @@
 
 ![서비스 소개](https://github.com/COFLLL/.github/assets/119282494/9aadd2e7-82b6-4c4a-9424-c42a6d73902c)
 
+<Br>
+<br>
 
 # 📑 INDEX
 > 🚀 [우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
