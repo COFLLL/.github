@@ -54,7 +54,7 @@
 <br>
         
 # 🚀 우리는 이렇게 일하고 있어요
-![팀 문화](https://github.com/COFLLL/.github/assets/119282494/38100e37-1878-49f3-a0d9-7af64e36a53a)
+![팀 문화](https://github.com/COFLLL/.github/assets/98208452/b2ab5888-0485-4ef1-8e5e-ed5f84c0d60d)
 
 <br>
 
