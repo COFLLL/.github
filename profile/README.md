@@ -41,8 +41,8 @@
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz(라현지)</b></td>
-    <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft(조만제)</b></td>
+    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz | 라현지</b></td>
+    <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft | 조만제</b></td>
   </tr>
 </table>
         
