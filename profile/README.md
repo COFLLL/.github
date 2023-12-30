@@ -59,5 +59,7 @@
 <br>
 
 # 🚀 전략적으로 형상을 관리해요
-![전략](https://github.com/COFLLL/.github/assets/119282494/cdda3c23-75aa-455a-9902-57d4254d6945)
+![image](https://github.com/COFLLL/.github/assets/98208452/b1fa5872-71cf-42f5-833b-a24f7cdc54b2)
+
+
 
