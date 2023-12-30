@@ -1,5 +1,8 @@
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCOFLLL&count_bg=%23FF8D1D&title_bg=%2386757E&icon_color=%23E1DEDE&title=Views&edge_flat=false"/></a>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCOFLLL&count_bg=%23000000&title_bg=%23FF8D1D&icon=&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![](https://img.shields.io/badge/-Tech%20Blog-important?style=style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=white)
+]([https://cofll.github.io/](https://velog.io/@cofl/posts)) 
 </div>
 사진
 사진
