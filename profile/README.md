@@ -49,16 +49,11 @@
 <br>
         
 # 🚀 우리는 이렇게 일하고 있어요
-![팀 문화](https://github.com/COFLLL/.github/assets/98208452/b2ab5888-0485-4ef1-8e5e-ed5f84c0d60d)
+![팀 문화](https://github.com/COFLLL/.github/assets/98208452/6f72a9d7-d74c-41df-b720-c99f12a445a9)
+
 
 <br>
 
 # 🚀 전략적으로 형상을 관리해요
 ![전략](https://github.com/COFLLL/.github/assets/98208452/c5cd03f0-9224-4f28-9c32-679ff899f1b7)
-
-
-
-
-
-
 
