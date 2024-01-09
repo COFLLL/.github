@@ -19,7 +19,8 @@
 
 
 ## 🎁 기술 소개
-![image](https://github.com/COFLLL/.github/assets/98208452/09f4e9f4-d3ba-430b-af8e-b3d84532e075)
+![image](https://github.com/COFLLL/.github/assets/98208452/0bad5400-adda-4885-82b7-49a6346ba98f)
+
 
 <br>
 
@@ -55,6 +56,7 @@
 <br>
 
 # 🚀 전략적으로 형상을 관리해요
-![image](https://github.com/COFLLL/.github/assets/98208452/69330881-1794-473d-bada-11613dca6473)
+![image](https://github.com/COFLLL/.github/assets/98208452/8f78fa2c-466e-4bbd-ad58-5416c12c0560)
+
 
 
