@@ -11,23 +11,23 @@
 <br>
 
 # 📑 INDEX
-> 🚀 [우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
+> ### 🚀 [우리는 이렇게 일하고 있어요](https://github.com/COFLLL#-우리는-이렇게-일하고-있어요)
 
-> 🚀 [전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
+> ### 🚀 [전략적으로 형상을 관리해요](https://github.com/COFLLL#-전략적으로-형상을-관리해요)
 
 <br>
 
 
 ## 🎁 기술 소개
-![image](https://github.com/COFLLL/.github/assets/98208452/0bad5400-adda-4885-82b7-49a6346ba98f)
+![기술](https://github.com/COFLLL/.github/assets/98208452/0bad5400-adda-4885-82b7-49a6346ba98f)
 
 
 <br>
 
 ## 🎁 코드 소개
-🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) 
+> ### 🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) 
 
-🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
+> ### 🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
 
 <br>
 
@@ -51,12 +51,14 @@
         
 # 🚀 우리는 이렇게 일하고 있어요
 ![팀 문화](https://github.com/COFLLL/.github/assets/98208452/6f72a9d7-d74c-41df-b720-c99f12a445a9)
+> ### 🍰 [오전 회의](https://velog.io/@cofl/series/%EC%98%A4%EC%A0%84-%ED%9A%8C%EC%9D%98)
 
+> ### 🍰 [KPT 회고](https://velog.io/@cofl/series/KPT-%ED%9A%8C%EA%B3%A0)
 
 <br>
 
 # 🚀 전략적으로 형상을 관리해요
-![image](https://github.com/COFLLL/.github/assets/98208452/8f78fa2c-466e-4bbd-ad58-5416c12c0560)
+![전략](https://github.com/COFLLL/.github/assets/98208452/8f78fa2c-466e-4bbd-ad58-5416c12c0560)
 
 
 
