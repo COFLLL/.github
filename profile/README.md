@@ -22,7 +22,7 @@ https://coverflow.co.kr
 
 
 ## 🎁 기술 소개
-![기술](https://github.com/COFLLL/.github/assets/98208452/0bad5400-adda-4885-82b7-49a6346ba98f)
+![기술](https://github.com/COFLLL/.github/assets/98208452/13458dce-7629-483e-a68a-1abe2d9375e7)
 
 
 <br>
