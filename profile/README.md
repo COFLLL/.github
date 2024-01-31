@@ -24,6 +24,10 @@ https://coverflow.co.kr
 ## 🎁 기술 소개
 ![기술](https://github.com/COFLLL/.github/assets/98208452/13458dce-7629-483e-a68a-1abe2d9375e7)
 
+<br>
+
+## 🎁 프로젝트 아키텍처
+![image](https://github.com/COFLLL/.github/assets/98208452/629f87f7-a5b8-4787-a7f6-7cb2290082a9)
 
 <br>
 
