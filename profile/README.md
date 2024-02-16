@@ -32,9 +32,9 @@ https://coverflow.co.kr
 <br>
 
 ## 🎁 코드 소개
-> ### 🌌 [프론트엔드 저장소](https://github.com/COFLLL/CoverFlow-FE) 
+> ### 🌌 [프론트엔드 Repository](https://github.com/COFLLL/CoverFlow-FE) 
 
-> ### 🌌 [백엔드 저장소](https://github.com/COFLLL/CoverFlow-BE)
+> ### 🌌 [백엔드 Repository](https://github.com/COFLLL/CoverFlow-BE)
 
 <br>
 
