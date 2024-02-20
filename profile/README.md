@@ -27,7 +27,7 @@ https://coverflow.co.kr
 <br>
 
 ## 🎁 프로젝트 아키텍처
-![image](https://github.com/COFLLL/.github/assets/98208452/629f87f7-a5b8-4787-a7f6-7cb2290082a9)
+![image](https://github.com/COFLLL/.github/assets/98208452/bdd1c678-3eef-4af7-a75e-661069930261)
 
 <br>
 
