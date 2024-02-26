@@ -42,16 +42,19 @@ https://coverflow.co.kr
 <table>
   <tr>
     <td align="center"><strong>프론트엔드</strong></td>
+    <td align="center"><strong>프론트엔드</strong></td>
     <td align="center"><strong>UI•UX <br> 디자이너</strong></td>
     <td align="center"><strong>백엔드</strong></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JayJayleee"><img src="https://avatars.githubusercontent.com/JayJayleee" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><img src="https://avatars.githubusercontent.com/HA-SEUNG-JEONG" width="150px;" alt="">
     <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JayJayleee"><b>JayJayleee | 신지원</b></td>
+    <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><b>HA-SEUNG-JEONG | 정하승</b></td>
     <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz | 라현지</b></td>
     <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft | 조만제</b></td>
   </tr>
