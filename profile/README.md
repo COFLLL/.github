@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Tech%20Blog-important?style=style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=white)
 ](https://velog.io/@cofl/series) 
 
-https://coverflow.co.kr
+<!-- https://coverflow.co.kr -->
 </div>
 
 
