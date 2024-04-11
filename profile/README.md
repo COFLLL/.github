@@ -8,7 +8,8 @@
 </div>
 
 
-![서비스 소개 - 01](https://github.com/COFLLL/.github/assets/119282494/b43b6fe7-7f37-4b42-85dd-1740b8818d90)
+
+![서비스 소개 - 01](https://github.com/COFLLL/.github/assets/119282494/1ffab3d3-f82e-439a-812b-4714746bbf58)
 
 
 
