@@ -7,10 +7,7 @@
 <!-- https://coverflow.co.kr -->
 </div>
 
-
-
-![서비스 소개 - 01](https://github.com/COFLLL/.github/assets/119282494/1ffab3d3-f82e-439a-812b-4714746bbf58)
-
+<img width="1920" alt="서비스 소개 - 01" src="https://github.com/COFLLL/.github/assets/119282494/7d34d98f-dc2a-4b90-9cc9-3314a0815e51">
 
 
 <Br>
