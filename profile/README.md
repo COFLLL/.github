@@ -23,17 +23,6 @@
 
 <br>
 
-
-## 🎁 기술 소개
-![기술](https://github.com/COFLLL/.github/assets/98208452/13458dce-7629-483e-a68a-1abe2d9375e7)
-
-<br>
-
-## 🎁 프로젝트 아키텍처
-![image](https://github.com/COFLLL/.github/assets/98208452/bdd1c678-3eef-4af7-a75e-661069930261)
-
-<br>
-
 ## 🎁 코드 소개
 > ### 🌌 [프론트엔드 Repository](https://github.com/COFLLL/CoverFlow-FE) 
 
