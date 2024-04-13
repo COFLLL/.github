@@ -9,6 +9,8 @@
 
 <img width="1920" alt="서비스 소개 - 01" src="https://github.com/COFLLL/.github/assets/119282494/7d34d98f-dc2a-4b90-9cc9-3314a0815e51">
 
+![서비스 소개 - 02](https://github.com/COFLLL/.github/assets/119282494/e4b1c705-bd2b-4cfd-911e-b3e5222df526)
+
 
 <Br>
 <br>
