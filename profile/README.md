@@ -43,11 +43,11 @@
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz | 라현지</b></td>
-    <td align="center"><a href="https://github.com/JayJayleee"><b>JayJayleee | 신지원</b></td>
-    <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><b>HA-SEUNG-JEONG | 정하승</b></td>
-    <td align="center"><a href="https://github.com/kmin-jeong"><b>kmin-jeong | 김민정</b></td>
-    <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft | 조만제</b></td>
+    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz</b></td>
+    <td align="center"><a href="https://github.com/JayJayleee"><b>JayJayleee</b></td>
+    <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><b>HA-SEUNG-JEONG</b></td>
+    <td align="center"><a href="https://github.com/kmin-jeong"><b>kmin-jeong</b></td>
+    <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft</b></td>
   </tr>
 </table>
         
