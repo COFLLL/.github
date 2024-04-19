@@ -8,11 +8,8 @@
 </div>
 
 <img width="1920" alt="서비스 소개 - 01" src="https://github.com/COFLLL/.github/assets/119282494/7d34d98f-dc2a-4b90-9cc9-3314a0815e51">
+<img width="1920" alt="서비스 소개 - 02" src="https://github.com/COFLLL/.github/assets/119282494/98c43727-2d09-4a1f-847b-9addea2b7264">
 
-![서비스 소개 - 02](https://github.com/COFLLL/.github/assets/119282494/98c43727-2d09-4a1f-847b-9addea2b7264)
-
-
-<Br>
 <br>
 
 # 📑 INDEX
@@ -32,24 +29,24 @@
 ## 🎁 팀원 소개
 <table>
   <tr>
+    <td align="center"><strong>UI•UX<br>디자이너</strong></td>
     <td align="center"><strong>프론트엔드</strong></td>
     <td align="center"><strong>프론트엔드</strong></td>
     <td align="center"><strong>프론트엔드</strong></td>
-    <td align="center"><strong>UI•UX <br> 디자이너</strong></td>
     <td align="center"><strong>백엔드</strong></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href="https://github.com/JayJayleee"><img src="https://avatars.githubusercontent.com/JayJayleee" width="150px;" alt="">
     <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><img src="https://avatars.githubusercontent.com/HA-SEUNG-JEONG" width="150px;" alt="">
     <td align="center"><a href="https://github.com/kmin-jeong"><img src="https://avatars.githubusercontent.com/kmin-jeong" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/raxchaz"><img src="https://avatars.githubusercontent.com/raxchaz" width="150px;" alt="">
     <td align="center"><a href="https://github.com/fakerdeft"><img src="https://avatars.githubusercontent.com/fakerdeft" width="150px;" alt="">
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz | 라현지</b></td>
     <td align="center"><a href="https://github.com/JayJayleee"><b>JayJayleee | 신지원</b></td>
     <td align="center"><a href="https://github.com/HA-SEUNG-JEONG"><b>HA-SEUNG-JEONG | 정하승</b></td>
     <td align="center"><a href="https://github.com/kmin-jeong"><b>kmin-jeong | 김민정</b></td>
-    <td align="center"><a href="https://github.com/raxchaz"><b>raxchaz | 라현지</b></td>
     <td align="center"><a href="https://github.com/fakerdeft"><b>fakerdeft | 조만제</b></td>
   </tr>
 </table>
