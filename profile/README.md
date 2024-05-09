@@ -19,9 +19,9 @@
 <br>
 
 ## 🎁 코드 소개
-> ### 🌌 [프론트엔드 Repository](https://github.com/COFLLL/CoverFlow-FE) 
+> ### 🌌 [프론트엔드 Repository](https://github.com/COFLLL/Coverflow-FE) 
 
-> ### 🌌 [백엔드 Repository](https://github.com/COFLLL/CoverFlow-BE)
+> ### 🌌 [백엔드 Repository](https://github.com/COFLLL/Coverflow-BE)
 
 <br>
 
